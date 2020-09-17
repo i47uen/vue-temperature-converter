@@ -1,0 +1,1 @@
+body{justify-content:center;align-items:center;height:100vh;font-family:sans-serif;color:#444}.wrap,body{display:flex}.wrap{max-width:700px;margin:0 auto;justify-content:space-around}.col input{margin-top:7px}.col span{font-weight:600}.col p{font-size:12px;color:#666}
